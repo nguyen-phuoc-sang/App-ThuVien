@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/drawable/doanh.xml" value="0.1955" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/drawable/menu.xml" value="0.1955" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/activity_dangnhap.xml" value="0.25" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/activity_main.xml" value="0.1467065868263473" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/activity_manhinhchao.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/doimatkhau.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/frag_doanhthu.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/frag_loai.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/frag_phieu.xml" value="0.22192028985507245" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/fragsach.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/fragthanhvien.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/head.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/item_loaisach.xml" value="0.23867069486404835" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/item_re_phieu.xml" value="0.28286852589641437" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/item_thanhvien.xml" value="0.2323529411764706" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/item_top10.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/itemsach.xml" value="0.25" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/nutsuasach.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/nutsuatv.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/nutthem.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/nutthemsach.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/nutthemtv.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/layout/thongketop10.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/quang/AndroidStudioProjects/duanmau/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/quang/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.13148148148148148" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

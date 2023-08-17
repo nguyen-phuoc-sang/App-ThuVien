@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thêm Loại Sách"
+        android:textColor="#F44336"
+        android:layout_gravity="center"
+        android:textSize="30dp">
+    </TextView>
+
+    <EditText
+        android:id="@+id/themloaisach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập tên loại sách">
+    </EditText>
+
+    <Button
+        android:id="@+id/nutthemloai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thêm">
+    </Button>
+
+    <Button
+        android:id="@+id/nutsualoai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sửa">
+    </Button>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Danh Sách Loại Sách"
+        android:textColor="#F44336"
+        android:layout_gravity="center"
+        android:textSize="30dp">
+    </TextView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/reloaisach"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

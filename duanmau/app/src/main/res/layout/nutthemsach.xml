@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thêm sách "
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#F44336">
+    </TextView>
+
+    <EditText
+        android:id="@+id/tensach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên sách "
+        android:textSize="20dp">
+    </EditText>
+
+    <EditText
+        android:id="@+id/tienthue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tiền thuê "
+        android:textSize="20dp">
+    </EditText>
+
+    <Spinner
+        android:id="@+id/spsach"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Spinner>
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cập nhập thông tin thành viên "
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#F44336">
+    </TextView>
+
+    <TextView
+        android:id="@+id/matv"
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </TextView>
+
+    <EditText
+        android:id="@+id/tentv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên thành viên "
+        android:textSize="20dp">
+    </EditText>
+
+    <EditText
+        android:id="@+id/namsinh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Năm sinh "
+        android:textSize="20dp">
+    </EditText>
+
+
+</LinearLayout>
